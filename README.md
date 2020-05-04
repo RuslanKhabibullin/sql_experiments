@@ -1,0 +1,1 @@
+Various SQL queries (for work - reduce N+1 or speed up requests to DB)
